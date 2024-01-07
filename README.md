@@ -1,5 +1,8 @@
-# Divvy-Station-Placement-Optimization
-Evaluate the efficiency of current placement of divvy stops. Propose better locations for the stops and evaluate the efficiency of the newly proposed stops.
+# Project: Divvy Station placement and efficiency analysis
+- Conducted EDA and employed K-means Clustering to pinpoint strategic station locations for maximum impact..
+- Achieved 92% accuracy in yearly bike usage forecasting using Facebook’s Prophet Library.
+- Contributed to enhanced operational efficiency, ensuring optimal allocation of resources and improved user experience.
+- Evaluate the efficiency of current placement of divvy stops. Propose better locations for the stops and evaluate the efficiency of the newly proposed stops.
 
 Datasets used:
 
